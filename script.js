@@ -34,8 +34,8 @@ FormSubmitBtn.addEventListener('click', () =>{
 
 // Project-page Netflix line: 36-57
 const pr1heading = "Netflix-Clone";
-const pr1link = "/Projects(Clones)/Netflix/index.html";
-const pr1img = "/assets/netflix-clone.png";
+const pr1link = "https://mohdamirhasan.github.io/Netflix-Clone/";
+const pr1img = "assets/netflix-clone.png";
 const pr1para1 = "I was attracted by the user interface of Netflix's official website and decided to use it to demonstrate my front-end development skills. The project proved to be a valuable experience for me.";
 const pr1para2 = "To recreate the user interface, I employed simple front-end development tools, ensuring it is responsive on all devices.";
 const pr1tool1 = "HTML";
@@ -59,10 +59,10 @@ project1Btn.addEventListener('click', () =>{
 
 // project-page Ultraedit line: 61-82
 const pr2heading = "Ultraedit-Clone";
-const pr2link = "/Projects(Clones)/UltraEdit/nav.html";
-const pr2img = "/assets/ultraedit-clone.png";
-const pr2para1 = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam ipsum magni placeat facere possimus repellat.";
-const pr2para2 = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam ipsum magni placeat facere possimus repellat.";
+const pr2link = "https://github.com/mohdamirhasan/UltraEdit-Clone";
+const pr2img = "assets/ultraedit-clone.png";
+const pr2para1 = "A clone of the text editor downloading website. The simple and plain user interface got my attention.";
+const pr2para2 = "I saw it as an oportunity to show case my front-end develoment skills for such a static website.";
 const pr2tool1 = "HTML";
 const pr2tool2 = "CSS";
 
@@ -84,10 +84,10 @@ project2Btn.addEventListener('click', () =>{
 
 // projectp-page Vector-Calculator line: 86-110
 const pr3heading = "Vector-Calculator";
-const pr3link = "https://vectorcalculator.freewebhostmost.com/";
-const pr3img = "/assets/vector-calculator.png";
-const pr3para1 = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam ipsum magni placeat facere possimus repellat.";
-const pr3para2 = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam ipsum magni placeat facere possimus repellat.";
+const pr3link = "https://mohdamirhasan.github.io/Vector-Calculator/";
+const pr3img = "assets/vector-calculator.png";
+const pr3para1 = "Welcome to our vector calculator! It'll help you perform and understand a whole bunch of vector operations.Do you have the Cartesian coordinates of two vectors, or just know their vector direction and magnitude? Maybe you need to find the vector between two points?";
+const pr3para2 = "This vector calculator can deal with all those situations; it performs: Vector addition; Vector subtraction; Vector multiplication (both cross product and dot product!); Vector projections.";
 const pr3tool1 = "HTML";
 const pr3tool2 = "CSS";
 const pr3tool3 = "JavaScript";
